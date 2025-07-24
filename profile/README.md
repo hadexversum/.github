@@ -7,5 +7,5 @@ Our contributions:
    - [HaDeX2 web server](https://hadex2.mslab-ibb.pl/): web server. 
    - [HaDeXGUI](https://github.com/hadexversum/HaDeXGUI): R package for local deployment of HaDeX web server.
 
-  Authors: (Weronika Puchała)[https://github.com/werpuc], (Michał Burdukiewicz)[https://github.com/michbur].
+  Authors: [Weronika Puchała](https://github.com/werpuc), [Michał Burdukiewicz](https://github.com/michbur).
   
