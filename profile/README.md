@@ -1,6 +1,6 @@
 # HaDeXversum
 
-We produce software for analysis of HDX-MS data. 
+We produce software for the analysis of HDX-MS data. 
 
 Our contributions:
  - [resources](): curated list of interesting articles from the HDX-MS field.
@@ -15,5 +15,7 @@ Our contributions:
    - [HaDeX GUI](https://hadex.mslab-ibb.pl/): web server.
    - [publication](https://academic.oup.com/bioinformatics/article/36/16/4516/5862011): article describing project.
 
-  Authors: [Weronika Puchała](https://github.com/werpuc), [Michał Burdukiewicz](https://github.com/michbur).
+In case of trouble setting up the local instance, see our example [dockerfiles](https://github.com/hadexversum/containers).
+
+Authors: [Weronika Puchała](https://github.com/werpuc), [Michał Burdukiewicz](https://github.com/michbur).
   
