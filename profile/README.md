@@ -3,7 +3,7 @@
 We produce software for the analysis of HDX-MS data. 
 
 Our contributions:
- - [resources](): curated list of interesting articles from the HDX-MS field.
+ - [resources](https://github.com/hadexversum/HDX-MS-resources): curated list of interesting articles from the HDX-MS field.
  - [HRaDeX](https://github.com/hadexversum/HRaDeX): R package for in-depth analysis of the uptake kinetics.
    - [HRaDeX web server](https://hradex.mslab-ibb.pl/): web server for single-state analysis.
    - [compaHRaDeX web server](https://compahradex.mslab-ibb.pl/): web server for comparative analysis.
